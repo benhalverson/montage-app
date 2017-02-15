@@ -2,8 +2,8 @@
     "name": "montage-app",
     "version": "0.1.0",
     "dependencies": {
-        "montage": "~0.14.0",
-        "digit": "~0.5.0"
+        "montage": "~16.0.3",
+        "digit": "~0.6.1"
     },
     "devDependencies": {
         "montage-testing": "~0.4.0"
